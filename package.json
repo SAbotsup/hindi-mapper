@@ -4,7 +4,7 @@
   "description": "Anilist to Satoru.one mapping API",
   "main": "server.js",
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "scripts": {
     "start": "node server.js",
